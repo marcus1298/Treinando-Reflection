@@ -4,7 +4,7 @@ O que é Reflection?
 
 Reflection é uma funcionalidade do C# que permite que você descubra e manipule informações sobre tipos em tempo de execução. Isso inclui informações sobre propriedades, métodos, construtores, atributos, entre outras coisas. Com reflection, você pode descobrir informações sobre tipos que você não conhece no momento da compilação, ou até mesmo mudar o comportamento de um tipo já existente.
 
-Etapas do programa
+# Etapas do programa
 
 O programa possui duas funções principais: ListPropertiesAndMethods(object obj) e CreateInstance(Type type).
 
